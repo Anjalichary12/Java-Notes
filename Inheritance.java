@@ -80,3 +80,9 @@ class Main {
         
     }
 }
+
+output:
+Maname
+Hyd
+64
+this is  child Class 10 Anjali
